@@ -20,6 +20,6 @@ Remote-Containers: Open Folder in Container
 ## Build & Run
 ```
 > mkdir build && cd build
-> make ../ &&  make
+> cmake ../ &&  make
 > ./helloworld
 ```
